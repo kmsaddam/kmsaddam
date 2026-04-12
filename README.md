@@ -1,94 +1,84 @@
-# 👋 Hi, I'm YourName
+# 👋 Hi, I'm K. M. Saddam Hossain
 
-🧪 Software Quality Assurance Engineer | 🔍 Bug Hunter | 📊 Test Strategist
-
----
-
-## 🧑‍💻 About Me
-
-* 💼 I specialize in **Software Testing & Quality Assurance**
-* 🔍 Passionate about finding bugs and improving user experience
-* 🧪 Experienced in **Manual & Automated Testing**
-* 📈 Focused on delivering high-quality, reliable software
-* 🌱 Currently learning **Test Automation & CI/CD pipelines**
+**Software Quality Assurance Engineer | Former Developer**
 
 ---
 
-## 🧰 Skills & Tools
+## 🧑‍💼 Professional Summary
 
-### 🧪 Testing Types
+I am an experienced SQA professional skilled in both manual and automated testing, with a strong foundation as a former software engineer. Proficient in Agile and SDLC methodologies, I excel in test design, automation frameworks, and defect tracking. Experienced with tools like Playwright, Selenium, and Jira, I ensure high-quality, reliable software through effective collaboration and continuous quality improvement practices.
+
+
+---
+
+## 🛠️ Core Skills
+
+**Testing Expertise**
 
 * Functional Testing
 * Regression Testing
 * Smoke & Sanity Testing
 * API Testing
-* UI/UX Testing
+* UI Testing
 
-### ⚙️ Tools & Technologies
+**Automation & Tools**
 
 * Selenium
+* Playwright
 * Cypress
 * Postman
 * JMeter
-* TestNG
 
-### 💻 Languages
+**Programming**
 
 * JavaScript
 * Python
-* Java (basic)
+* PHP
+* HTML & CSS
+* Bootsrap
+* Jquery
+* MySql
+* MongoDB
+* PostgresSql
 
-### 🔄 Other Skills
+**Process & Methodologies**
 
+* Agile / Scrum
 * Test Case Design
-* Bug Reporting (JIRA, Bugzilla)
-* Agile / Scrum Methodology
-* CI/CD Basics
+* Bug Tracking (JIRA, Bugzilla)
+* CI/CD
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience (Highlights)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername\&layout=compact\&theme=tokyonight)
-
----
-
-## 🧪 My QA Approach
-
-✔️ Understand requirements clearly
-✔️ Write detailed test cases
-✔️ Execute tests with precision
-✔️ Report bugs with clarity
-✔️ Ensure smooth user experience
+* Designed and executed comprehensive test cases to ensure software quality
+* Identified, documented, and tracked defects with clear reproduction steps
+* Collaborated closely with developers to resolve issues efficiently
+* Contributed to automation frameworks to improve testing efficiency
+* Participated in Agile ceremonies including sprint planning and retrospectives
 
 ---
 
-## 📂 Featured Projects
+## 📂 Key Projects
 
-🔹 Test Automation Framework
-➡️ Built automation framework using Selenium & TestNG
+**Data Driven Automation Framework**
 
-🔹 API Testing Collection
-➡️ Created Postman collections for REST API testing
+**B2B Automation Framework**
 
-🔹 Performance Testing
-➡️ Conducted load testing using JMeter
+**E-Commerce Automation Framework**
 
----
+**CMS Automation Framework**
 
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 📧 Email: [your@email.com](mailto:your@email.com)
 
 ---
 
-## 💡 QA Motto
+## 📫 Contact
 
-> "Quality is never an accident; it is always the result of intelligent effort."
+* LinkedIn: https://www.linkedin.com/in/kmsaddam/
+* Website: [(https://kmsaddam.com/](https://kmsaddam.com/)
+* Email: [dev.saddam@gmail.com](mailto:dev.saddam@gmail.com)
+* Phone: +880 1718 170 799
 
 ---
 
-⭐️ From [YourUsername](https://github.com/YourUsername)
