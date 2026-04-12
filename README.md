@@ -1,6 +1,6 @@
 # 👋 Hi, I'm K. M. Saddam Hossain
 
-**SQA Engineer | Software Engineer | Javascript | PHP | Python | Devops**
+**SQA Engineer | Software Engineer | Devops**
 
 ---
 
