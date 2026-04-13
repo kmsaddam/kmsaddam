@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K. M. Saddam Hossain
+# 👋 Hi, I'm K M Saddam Hossain
 
 **SQA Engineer | Software Engineer | Devops**
 
@@ -78,7 +78,7 @@ I am an experienced SQA professional skilled in both manual and automated testin
 * LinkedIn: https://www.linkedin.com/in/kmsaddam/
 * Website: [https://kmsaddam.com/](https://kmsaddam.com/)
 * Email: [dev.saddam@gmail.com](mailto:dev.saddam@gmail.com)
-* Phone: [+880 1718 170 799]
+* Phone: +880 1718 170 799(https://wa.me/+8801718170799)
 
 ---
 
