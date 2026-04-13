@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K M Saddam Hossain
+# 👋 Hi, I'm K. M. Saddam Hossain
 
 **SQA Engineer | Software Engineer | Devops**
 
